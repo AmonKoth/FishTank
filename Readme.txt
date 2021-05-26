@@ -1,6 +1,9 @@
 The aim of this project was to simulate flocking ai(crowd or herd) the agents in this case are fish
 Currently there are no player interaction in this project but some interraction will be added later on.
 
+Project can be reached from here:
+https://amonkoth.github.io/FishTank/index.html
+
 They move to a target while considering others in their group
 A group is created by calculating neigbours in a given radius and each agent moves according to their groups avarage forward vector while avoiding eachother
 Agents also avoid obstacles with collision on them in this case pillars, trees, ground and castle
